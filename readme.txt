@@ -3,4 +3,8 @@ GIT is free
 Gtt is not right
 github
 new branch dev
+<<<<<<< HEAD
 master
+=======
+f1
+>>>>>>> f1
